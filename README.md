@@ -247,7 +247,7 @@ Este projeto é parte do Trabalho 3 da disciplina de Grafos - Universidade de Fo
 
 ---
 
-**Autor**: [Seu Nome]
+**Autores**: Nathan Linhares Dias Malheiros | Ana Julia Benevides Arrais Monteiro | Marcos Vinicius dos Santos e Silva
 **Disciplina**: Grafos
 **Instituição**: Universidade de Fortaleza
 **Data**: Abril 2026
