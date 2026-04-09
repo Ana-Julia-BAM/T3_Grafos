@@ -4,6 +4,9 @@
 
 Este projeto implementa um analisador de grafos direcionados (dígrafos) que encontra circuitos eulerianos utilizando o **Algoritmo de Hierholzer**. O programa lê dados de entrada de um arquivo, constrói um dígrafo ponderado, verifica suas propriedades e calcula o custo total do circuito euleriano encontrado.
 
+Link do video:
+https://youtu.be/-0dXdNrizKU
+
 ## 🎯 Objetivos
 
 - Construir e analisar dígrafos ponderados
